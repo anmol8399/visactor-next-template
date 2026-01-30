@@ -8,7 +8,7 @@ export const averageTicketsCreated = [
   { date: "2023-11-21", created: 4, resolved: 1 },
   { date: "2023-11-22", created: 3, resolved: 2 },
   { date: "2023-11-23", created: 21, resolved: 15 },
-  { date: "2023-11-24", created: 3567, resolved: 2034 },
+  { date: "2023-11-24", created: 3567, resolved: 203 },
   { date: "2023-11-25", created: 3912, resolved: 2187 },
   { date: "2023-11-26", created: 4156, resolved: 2321 },
   { date: "2023-11-27", created: 3789, resolved: 2134 },
