@@ -7,7 +7,7 @@ export default function DashboardLayout({
 }) {
   return (
     <>
-      <TopNav title="HIRING ANALYTICS" />
+      <TopNav title="HIRING ANALYTICS | MATANALYTICS" />
       <main>{children}</main>
     </>
   );
