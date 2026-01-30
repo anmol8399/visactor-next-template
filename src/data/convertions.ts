@@ -1,18 +1,18 @@
 export const convertions = [
   {
-    name: "Bandung",
+    name: "LinkedIn",
     value: 3260,
   },
   {
-    name: "Yogyakarta",
+    name: "Naukri.com",
     value: 12320,
   },
   {
-    name: "Jakarta",
+    name: "Portal",
     value: 1320,
   },
   {
-    name: "Kebumen",
+    name: "Internshala",
     value: 320,
   },
 ];
