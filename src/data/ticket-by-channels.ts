@@ -1,22 +1,22 @@
 export const ticketByChannels = [
   {
-    type: "Email",
-    value: 2013,
+    type: "LinkedIn",
+    value: 491,
   },
   {
-    type: "Live Chat",
-    value: 834,
+    type: "Portal",
+    value: 93,
   },
   {
-    type: "Contact Form",
-    value: 276,
+    type: "Naukri.com",
+    value: 279,
   },
   {
-    type: "Messenger",
-    value: 250,
+    type: "Indeed.com",
+    value: 178,
   },
   {
-    type: "WhatsApp",
-    value: 103,
+    type: "Internshala",
+    value: 167,
   },
 ];
